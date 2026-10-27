@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Создатель проекта LightWorld (Minecraft сервер)<br>⚡ Изучаю Java уже на протяжении 6-ти месяцев<br>🤝 Хочу и дальше изучать языки программирования и двигаться в сфере IT
+🔭 17 years old<br>⚡ Learning Java & Kotlin<br>🤝 I wanna be Fullstack/Backend Developer.
 
 
 ## 🌐 Socials:
